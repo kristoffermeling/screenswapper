@@ -1,0 +1,1 @@
+python C:\Users\Kristoffer\PycharmProjects\screenswapper\main.py
